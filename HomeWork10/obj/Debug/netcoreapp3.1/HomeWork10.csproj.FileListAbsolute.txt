@@ -1,0 +1,14 @@
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.exe
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.deps.json
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.runtimeconfig.json
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.runtimeconfig.dev.json
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.dll
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\bin\Debug\netcoreapp3.1\HomeWork10.pdb
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.csproj.AssemblyReference.cache
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.AssemblyInfoInputs.cache
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.AssemblyInfo.cs
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.csproj.CoreCompileInputs.cache
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.dll
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.pdb
+D:\Programlama\CodeAcamedy\HomeWork10\HomeWork10\obj\Debug\netcoreapp3.1\HomeWork10.genruntimeconfig.cache
